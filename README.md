@@ -27,9 +27,10 @@ stroke | 0 - no stroke, 1 - suffered stroke
 
 The solution consists of:
 * train_ajEneEa.csv: dataset from the hackathon
-* notebook.ipynb:
+* notebook.ipynb
   + data preparation & EDA
   + model selection and parameter tuning
+* train.py
   + training the final model & saving it to a pickle file
 * predict.py
   + loading the model
