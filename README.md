@@ -10,6 +10,21 @@ Over the last few years, the Client has captured several health, demographic and
 
 The Client wants you to predict the probability of stroke happening to their patients. This will help doctors take proactive health measures for these patients."
 
+Variable  | Definition
+------------- | -------------
+id  | Patient ID
+gender  | Gender of Patient
+age | Age of Patient
+hypertension | 0 - no hypertension, 1 - suffering from hypertension
+heart_disease | 0 - no heart disease, 1 - suffering from heart disease
+ever_married | Yes/No
+work_type | Type of occupation
+Residence_type | Area type of residence (Urban/ Rural)
+avg_glucose_level | Average Glucose level (measured after meal)
+bmi | Body mass index
+smoking_status | patient's smoking status
+stroke | 0 - no stroke, 1 - suffered stroke
+
 The solution consists of:
 * train_ajEneEa.csv: dataset from the hackathon
 * notebook.ipynb:
