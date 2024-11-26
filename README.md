@@ -36,7 +36,7 @@ The solution consists of:
   + loading the model
   + serving it via a web service (Flask)
 * predict_test.py
-  + file containing information about the test user to run the service
+  + file with information about one user for testing the service
 * files with dependencies Pipenv and Pipenv.lock
 * dockerfile for running the service
 * image of how to interact with the deployed service
